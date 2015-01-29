@@ -1,5 +1,6 @@
 === WP Emo-ello ===
-Contributors: manski
+
+Contributors: viphat
 Tags: smileys, emoticons, Fontello
 Requires at least: 3.9.0
 Tested up to: 4.1.0
@@ -61,6 +62,8 @@ Notes (When Convert WordPress's Smileys):
 
 
 ![image](http://blog.viphat.name/wp-content/uploads/2015/01/2.png)
+
+**Github Repository** - https://github.com/viphat/wp-emo-ello
 
 == Installation ==
 
