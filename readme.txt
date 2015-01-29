@@ -15,6 +15,8 @@ Fontello Emoticons can be inserted using either HTML, shortcode or a built-in Ti
 
 - Insert via TinyMCE Plugins (See Screenshots)
 
+![image](http://blog.viphat.name/wp-content/uploads/2015/01/2.png)
+
 - Use HTML Code
 
 `<i class='icon-emo-beer'></i>`
@@ -60,8 +62,6 @@ Notes (When Convert WordPress's Smileys):
 * Emoticons must be surrounded with spaces (or other white space characters); e.g. the emoticon in `that:)smile` won't be replaced
 * Emoticons won't be replaced in HTML tags nor in `<pre>` or `<code>` blocks.
 
-
-![image](http://blog.viphat.name/wp-content/uploads/2015/01/2.png)
 
 **Github Repository** - https://github.com/viphat/wp-emo-ello
 

@@ -15,6 +15,8 @@ Fontello Emoticons can be inserted using either HTML, shortcode or a built-in Ti
 
 - Insert via TinyMCE Plugins (See Screenshots)
 
+![image](http://blog.viphat.name/wp-content/uploads/2015/01/2.png)
+
 - Use HTML Code
 
 `<i class='icon-emo-beer'></i>`
