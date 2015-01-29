@@ -25,14 +25,17 @@
 				_id = ICONS[i];
 
 				values.push( {
-					text: _id,
+					text: ' ' +  _id,
+					icon: 'icon-' + _id,
 					value: _id
 				} );
 			}
 
 			return {
 				type: 'listbox',
-				text: 'Fontello Emoticons',
+				text: 'Fontello',
+				icon: 'icon-emo-devil',
+				tooltip: 'Fontello Emoticons',
 				label: 'Select :',
 				fixedWidth: true,
 				values: values,

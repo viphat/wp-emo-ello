@@ -17,56 +17,66 @@
     src: url('../font/fontello.svg?12078665#fontello') format('svg');
   }
 }
+
 */
- 
- [class^="icon-"]:before, [class*=" icon-"]:before {
+
+[class*=" mce-i-icon-"]:before {
+  color: #f1c40f;
+}
+
+
+ [class^="icon-"]:before, [class*=" icon-"]:before, [class*=" mce-i-icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
   speak: none;
- 
+
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
-  margin-right: .2em;
+  margin-right: 0.5em !important;
   text-align: center;
   /* opacity: .8; */
- 
+
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
   text-transform: none;
-     
+
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
- 
+
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
   margin-left: .2em;
- 
+
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
- 
+
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
- 
-.icon-emo-sunglasses:before { content: '\e800'; } /* '' */
-.icon-emo-coffee:before { content: '\e801'; } /* '' */
-.icon-emo-tongue:before { content: '\e802'; } /* '' */
-.icon-emo-surprised:before { content: '\e803'; } /* '' */
-.icon-emo-devil:before { content: '\e804'; } /* '' */
-.icon-emo-thumbsup:before { content: '\e805'; } /* '' */
-.icon-emo-sleep:before { content: '\e806'; } /* '' */
-.icon-emo-unhappy:before { content: '\e807'; } /* '' */
-.icon-emo-wink2:before { content: '\e808'; } /* '' */
-.icon-emo-wink:before { content: '\e809'; } /* '' */
-.icon-emo-happy:before { content: '\e80a'; } /* '' */
-.icon-emo-displeased:before { content: '\e80b'; } /* '' */
-.icon-emo-beer:before { content: '\e80c'; } /* '' */
-.icon-emo-grin:before { content: '\e80d'; } /* '' */
-.icon-emo-angry:before { content: '\e80e'; } /* '' */
-.icon-emo-saint:before { content: '\e80f'; } /* '' */
-.icon-emo-cry:before { content: '\e810'; } /* '' */
-.icon-emo-shoot:before { content: '\e811'; } /* '' */
-.icon-emo-squint:before { content: '\e812'; } /* '' */
-.icon-emo-laugh:before { content: '\e813'; } /* '' */
+
+.mce-i-icon-emo-sunglasses:before, .icon-emo-sunglasses:before { content: '\e800'; } /* '' */
+.mce-i-icon-emo-coffee:before, .icon-emo-coffee:before { content: '\e801'; } /* '' */
+.mce-i-icon-emo-tongue:before, .icon-emo-tongue:before { content: '\e802'; } /* '' */
+.mce-i-icon-emo-surprised:before, .icon-emo-surprised:before { content: '\e803'; } /* '' */
+.mce-i-icon-emo-devil:before, .icon-emo-devil:before { content: '\e804'; } /* '' */
+.mce-i-icon-emo-thumbsup:before, .icon-emo-thumbsup:before { content: '\e805'; } /* '' */
+.mce-i-icon-emo-sleep:before, .icon-emo-sleep:before { content: '\e806'; } /* '' */
+.mce-i-icon-emo-unhappy:before, .icon-emo-unhappy:before { content: '\e807'; } /* '' */
+.mce-i-icon-emo-wink2:before, .icon-emo-wink2:before { content: '\e808'; } /* '' */
+.mce-i-icon-emo-wink:before, .icon-emo-wink:before { content: '\e809'; } /* '' */
+.mce-i-icon-emo-happy:before, .icon-emo-happy:before { content: '\e80a'; } /* '' */
+.mce-i-icon-emo-displeased:before, .icon-emo-displeased:before { content: '\e80b'; } /* '' */
+.mce-i-icon-emo-beer:before, .icon-emo-beer:before { content: '\e80c'; } /* '' */
+.mce-i-icon-emo-grin:before, .icon-emo-grin:before { content: '\e80d'; } /* '' */
+.mce-i-icon-emo-angry:before, .icon-emo-angry:before { content: '\e80e'; } /* '' */
+.mce-i-icon-emo-saint:before, .icon-emo-saint:before { content: '\e80f'; } /* '' */
+.mce-i-icon-emo-cry:before, .icon-emo-cry:before { content: '\e810'; } /* '' */
+.mce-i-icon-emo-shoot:before, .icon-emo-shoot:before { content: '\e811'; } /* '' */
+.mce-i-icon-emo-squint:before, .icon-emo-squint:before { content: '\e812'; } /* '' */
+.mce-i-icon-emo-laugh:before, .icon-emo-laugh:before { content: '\e813'; } /* '' */
+
+.mce-ico + span.mce-text {
+  margin-left:7px !important;
+}
