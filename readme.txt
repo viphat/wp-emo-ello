@@ -36,24 +36,24 @@ The following emoticons are supported:
 
 * `:)` `:-)` `:smile:`
 * `:(` `:-(` `:sad:`
-  * `;)` `;-)` `:wink:`
-  * `:P` `:-P` `:razz:`
-  * `-.-` `-_-` `:sleep:`
-  * `:thumbs:` `:thumbsup:`
-  * `:devil:` `:twisted:`
-  * `:o` `:-o` `:eek:`
-  * `8O` `8o` `8-O` `8-o` `:shock:`
-  * `:coffee:`
-  * `8)` `8-)` `B)` `B-)` `:cool:`
-  * `:/` `:-/`
-  * `:beer:`
-  * `:D` `:-D` `:grin:`
-  * `x(` `x-(` `X(` `X-(` `:angry:`
-  * `:x` `:-x` `:mad:`
-  * `O:)` `0:)` `o:)` `O:-)` `0:-)` `o:-)` `:saint:`
-  * `:'(` `:'-(` `:cry:`
-  * `:shoot:`
-  * `^^` `^_^` `:lol:`
+* `;)` `;-)` `:wink:`
+* `:P` `:-P` `:razz:`
+* `-.-` `-_-` `:sleep:`
+* `:thumbs:` `:thumbsup:`
+* `:devil:` `:twisted:`
+* `:o` `:-o` `:eek:`
+* `8O` `8o` `8-O` `8-o` `:shock:`
+* `:coffee:`
+* `8)` `8-)` `B)` `B-)` `:cool:`
+* `:/` `:-/`
+* `:beer:`
+* `:D` `:-D` `:grin:`
+* `x(` `x-(` `X(` `X-(` `:angry:`
+* `:x` `:-x` `:mad:`
+* `O:)` `0:)` `o:)` `O:-)` `0:-)` `o:-)` `:saint:`
+* `:'(` `:'-(` `:cry:`
+* `:shoot:`
+* `^^` `^_^` `:lol:`
 
 Notes (When Convert WordPress's Smileys):
 * Emoticons must be surrounded with spaces (or other white space characters); e.g. the emoticon in `that:)smile` won't be replaced
@@ -84,11 +84,11 @@ The emoticons used in this plugin are based on the "Fontelico" font.
 
 License:
 
-Copyright (C) 2012 by Fontello project
+    Copyright (C) 2012 by Fontello project
 
-Author:    Crowdsourced, for Fontello project
-License:   SIL (http://scripts.sil.org/OFL)
-Homepage:  http://fontello.com
+    Author:    Crowdsourced, for Fontello project
+    License:   SIL (http://scripts.sil.org/OFL)
+    Homepage:  http://fontello.com
 
 == Credits ==
 

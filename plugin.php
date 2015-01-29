@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: WP Emo Tello
-Plugin URI: https://github.com/viphat/wp-emo-tello
+Plugin Name: WP Emo Ello
+Plugin URI: https://github.com/viphat/wp-emo-ello
 Description: Use the Fontello Emoticon set within WordPress. Icons can be inserted using either HTML or a shortcode.
 Version: 0.3
 Author: viphat
-Author URI: https://github.com/viphat/wp-emo-tello
+Author URI: https://github.com/viphat/wp-emo-ello
 Author Email: viphat@gmail.com
 Credits:
 
@@ -154,12 +154,12 @@ class EmoTello {
 
 
     public function register_tinymce_plugin($plugin_array) {
-        $plugin_array['emo_tello'] = plugins_url('assets/js/emo-tello.js', __FILE__);
+        $plugin_array['emo_ello'] = plugins_url('assets/js/wp-emo-ello.js', __FILE__);
         return $plugin_array;
     }
 
     public function add_tinymce_buttons($buttons) {
-        array_push($buttons,'|','emo_tello');
+        array_push($buttons,'|','emo_ello');
         return $buttons;
     }
 

@@ -15,8 +15,8 @@
 		return '[icon name="' + id + '"]';
 	};
 
-	tinymce.PluginManager.add( 'emo_tello', function( editor, url ) {
-		editor.addButton( 'emo_tello', function() {
+	tinymce.PluginManager.add( 'emo_ello', function( editor, url ) {
+		editor.addButton( 'emo_ello', function() {
 			var i,
 			_id,
 			values = [];
