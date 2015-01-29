@@ -1,12 +1,12 @@
 === WP Emo-ello ===
 
-Contributors: viphat
-Tags: smileys, emoticons, Fontello
-Requires at least: 3.9.0
-Tested up to: 4.1.0
-Stable tag: 0.3
-License: GPLv2+
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: viphat
+- Tags: smileys, emoticons, Fontello
+- Requires at least: 3.9.0
+- Tested up to: 4.1.0
+- Stable tag: 0.3
+- License: GPLv2+
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Fontello Emoticons can be inserted using either HTML, shortcode or a built-in TinyMCE plugin. This plugin also replaces Wordpress' smileys.
 
@@ -37,24 +37,24 @@ The following emoticons are supported:
 
 * `:)` `:-)` `:smile:`
 * `:(` `:-(` `:sad:`
-  * `;)` `;-)` `:wink:`
-  * `:P` `:-P` `:razz:`
-  * `-.-` `-_-` `:sleep:`
-  * `:thumbs:` `:thumbsup:`
-  * `:devil:` `:twisted:`
-  * `:o` `:-o` `:eek:`
-  * `8O` `8o` `8-O` `8-o` `:shock:`
-  * `:coffee:`
-  * `8)` `8-)` `B)` `B-)` `:cool:`
-  * `:/` `:-/`
-  * `:beer:`
-  * `:D` `:-D` `:grin:`
-  * `x(` `x-(` `X(` `X-(` `:angry:`
-  * `:x` `:-x` `:mad:`
-  * `O:)` `0:)` `o:)` `O:-)` `0:-)` `o:-)` `:saint:`
-  * `:'(` `:'-(` `:cry:`
-  * `:shoot:`
-  * `^^` `^_^` `:lol:`
+* `;)` `;-)` `:wink:`
+* `:P` `:-P` `:razz:`
+* `-.-` `-_-` `:sleep:`
+* `:thumbs:` `:thumbsup:`
+* `:devil:` `:twisted:`
+* `:o` `:-o` `:eek:`
+* `8O` `8o` `8-O` `8-o` `:shock:`
+* `:coffee:`
+* `8)` `8-)` `B)` `B-)` `:cool:`
+* `:/` `:-/`
+* `:beer:`
+* `:D` `:-D` `:grin:`
+* `x(` `x-(` `X(` `X-(` `:angry:`
+* `:x` `:-x` `:mad:`
+* `O:)` `0:)` `o:)` `O:-)` `0:-)` `o:-)` `:saint:`
+* `:'(` `:'-(` `:cry:`
+* `:shoot:`
+* `^^` `^_^` `:lol:`
 
 Notes (When Convert WordPress's Smileys):
 * Emoticons must be surrounded with spaces (or other white space characters); e.g. the emoticon in `that:)smile` won't be replaced
