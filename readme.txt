@@ -1,6 +1,7 @@
 === WP Emo-ello ===
 
 Contributors: viphat
+Donate link: https://github.com/viphat/wp-emo-ello
 Tags: smileys, emoticons, Fontello
 Requires at least: 3.9.0
 Tested up to: 4.1.0
@@ -8,8 +9,8 @@ Stable tag: 0.3
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Fontello Emoticons can be inserted using either HTML, shortcode or a built-in TinyMCE plugin. This plugin also replaces Wordpress' smileys.
 
+Fontello Emoticons can be inserted using either HTML, shortcode or a built-in TinyMCE plugin. This plugin also replaces Wordpress' smileys.
 
 == Description ==
 
@@ -74,13 +75,22 @@ Notes (When Convert WordPress's Smileys):
 
 == Screenshots ==
 
-1. available emoticons.
-2. tinymce plugins.
+1. available emoticons
+2. tinymce plugins
 
 == Changelog ==
 
 = 0.3 =
 * First release.
+
+== Upgrade Notice ==
+
+NONE
+
+== Frequently Asked Questions ==
+
+NONE
+
 
 == Font License ==
 The emoticons used in this plugin are based on the "Fontelico" font.
@@ -88,7 +98,6 @@ The emoticons used in this plugin are based on the "Fontelico" font.
 License:
 
     Copyright (C) 2012 by Fontello project
-
     Author:    Crowdsourced, for Fontello project
     License:   SIL (http://scripts.sil.org/OFL)
     Homepage:  http://fontello.com
@@ -96,6 +105,8 @@ License:
 == Credits ==
 
 Many thanks to the following plugins and their authors:
-- Based on Font Awesome Plugins v4.2 - https://wordpress.org/plugins/font-awesome/ for Tiny MCE Plugins / HTML / Short Code
-- Based on Font Emoticons Plugins v1.2 - https://wordpress.org/plugins/font-emoticons/ for Replaces WP-Smilies with Fontello Emoticons
-- Based on Better Font Awesome Plugins v1.0.6 - https://wordpress.org/plugins/better-font-awesome for Display Icon in TinyMCE Listbox
+
+* Based on Font Awesome Plugins v4.2 - https://wordpress.org/plugins/font-awesome/ for Tiny MCE Plugins / HTML / Short Code
+* Based on Font Emoticons Plugins v1.2 - https://wordpress.org/plugins/font-emoticons/ for Replaces WP-Smilies with Fontello Emoticons
+* Based on Better Font Awesome Plugins v1.0.6 - https://wordpress.org/plugins/better-font-awesome for Display Icon in TinyMCE Listbox
+
