@@ -16,8 +16,6 @@ Fontello Emoticons can be inserted using either HTML, shortcode or a built-in Ti
 
 - Insert via TinyMCE Plugins (See Screenshots)
 
-![image](http://blog.viphat.name/wp-content/uploads/2015/01/2.png)
-
 - Use HTML Code
 
 `<i class='icon-emo-beer'></i>`
@@ -32,7 +30,6 @@ Fontello Emoticons can be inserted using either HTML, shortcode or a built-in Ti
 
 "emo-sunglasses", "emo-devil", "emo-wink2", "emo-beer", "emo-cry", "emo-coffee", "emo-thumbsup", "emo-wink", "emo-grin","emo-shoot","emo-tongue","emo-sleep","emo-happy","emo-angry","emo-squint","emo-surprised","emo-unhappy","emo-displeased","emo-saint","emo-laugh"
 
-![image](http://blog.viphat.name/wp-content/uploads/2015/01/wp-emo-tello.png)
 
 - Replace WordPress's Smileys
 
